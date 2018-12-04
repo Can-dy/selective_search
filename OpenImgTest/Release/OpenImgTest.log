@@ -1,0 +1,20 @@
+﻿生成启动时间为 2018/12/4 星期二 14:59:22。
+     1>项目“F:\库\课件\OpenCV\OpenCV实验课程序\OpenImgTest\OpenImgTest\OpenImgTest.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\OpenImgTest.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt OpenImgTest.cpp
+         OpenImgTest.cpp
+     1>OpenImgTest.cpp(41): warning C4018: “<”: 有符号/无符号不匹配
+     1>OpenImgTest.cpp(38): warning C4101: “dir”: 未引用的局部变量
+       Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\库\课件\OpenCV\OpenCV实验课程序\OpenImgTest\Release\OpenImgTest.exe" /INCREMENTAL:NO /NOLOGO "E:\Opencv\opencv-2.4.10\opencv\build\x86\vc12\staticlib\*.lib" vfw32.lib comctl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\OpenImgTest.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\库\课件\OpenCV\OpenCV实验课程序\OpenImgTest\Release\OpenImgTest.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\库\课件\OpenCV\OpenCV实验课程序\OpenImgTest\Release\OpenImgTest.lib" /MACHINE:X86 /SAFESEH Release\OpenImgTest.obj
+         Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         OpenImgTest.vcxproj -> F:\库\课件\OpenCV\OpenCV实验课程序\OpenImgTest\Release\OpenImgTest.exe
+       Manifest:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\mt.exe /nologo /verbose /out:"F:\库\课件\OpenCV\OpenCV实验课程序\OpenImgTest\Release\OpenImgTest.exe.manifest" /manifest Release\OpenImgTest.exe.intermediate.manifest
+     1>已完成生成项目“F:\库\课件\OpenCV\OpenCV实验课程序\OpenImgTest\OpenImgTest\OpenImgTest.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:16.89
